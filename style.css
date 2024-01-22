@@ -9,3 +9,14 @@ body {
     left: 0;
     right: 0;
 }
+
+#name {
+    z-index: 3;
+    font-size: 30px;
+    position: absolute;
+    top: 10px;
+    left: 10px;
+    background-color: aqua;
+    padding: 10px;
+
+}

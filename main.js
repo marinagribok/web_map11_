@@ -34,7 +34,7 @@ const getColor = (pop) => {
 
 const deckgl = new deck.DeckGL({
   style: {
-    "background-color": "rgb(0, 0, 60)",
+    "background-color": "rgb(200, 200, 250)",
   },
     //mapStyle: 'https://basemaps.cartocdn.com/gl/positron-nolabels-gl-style/style.json',
     container: "map",
